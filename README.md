@@ -15,6 +15,16 @@
 ## ✅ Wiki
 
 [Wiki 바로가기](https://github.com/FashionForecast/FashionForecast-client/wiki)
+#### 규칙
+  - [컨벤션](https://github.com/FashionForecast/FashionForecast-client/wiki/%EC%BB%A8%EB%B2%A4%EC%85%98)
+  - [애플리케이션 구조](https://github.com/FashionForecast/FashionForecast-client/wiki/%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EA%B5%AC%EC%A1%B0(FSD))
+  - [프로젝트 설정](https://github.com/FashionForecast/FashionForecast-client/wiki/%EC%84%A4%EC%A0%95)
+
+#### 기록 
+   - [외출시간 시계 UI 및 기능 구현](https://github.com/FashionForecast/FashionForecast-client/wiki/%EC%99%B8%EC%B6%9C%EC%8B%9C%EA%B0%84-%EC%8B%9C%EA%B3%84-UI-%EB%B0%8F-%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84)
+   - [소셜 로그인 JWT 인증 방식](https://github.com/FashionForecast/FashionForecast-client/wiki/%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-JWT-%EC%9D%B8%EC%A6%9D-%EB%B0%A9%EC%8B%9D)
+   - [지역별 위경도 스크립트 작성 및 검색 성능 최적화](https://github.com/FashionForecast/FashionForecast-client/wiki/%EC%A7%80%EC%97%AD%EB%B3%84-%EC%9C%84%EA%B2%BD%EB%8F%84-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9E%91%EC%84%B1-%EB%B0%8F-%EA%B2%80%EC%83%89-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94)
+   - [초기 디자인 및 영상](https://github.com/FashionForecast/FashionForecast-client/wiki/%EC%B4%88%EA%B8%B0-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%B0%8F-%EC%98%81%EC%83%81-%EA%B8%B0%EB%A1%9D)
 
 ## ✅ Infrastructure
 
@@ -33,13 +43,6 @@
 ### ✔️ Infra
 
 ![Group 58](https://github.com/user-attachments/assets/e7ac81d5-9697-4b3e-948b-db758bfc7c13)
-
-
-## ✅ CI/CD Flow
-
-### ✔️ Back-end
-
-![Group 26](https://github.com/user-attachments/assets/adeb544b-84fb-479f-873b-6ebcb1533e9d)
 
 
 ## ✅ 주요 기능
